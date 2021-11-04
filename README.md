@@ -1,2 +1,2 @@
 # ISI-MTech-CS-Assignments
-Assignments for different papers during M.Tech. CS @ ISI
+Assignments for different papers | M.Tech. CS @ ISI
