@@ -51,8 +51,11 @@ int main(void)
                 current = i;
                 if (current - prev == difference)
                     nice = 1;
-                else 
+                else {
                     nice = 0;
+                    break;
+                }
+                    //nice = 0;
                 prev = current;
             }
         }
