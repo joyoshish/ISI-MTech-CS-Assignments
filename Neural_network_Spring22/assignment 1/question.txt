@@ -1,0 +1,2 @@
+1. Build a MP Neuron (Perceptron) model from scratch for binary classification.
+2. Build a Perceptron from scratch for multi-class classification problem.
